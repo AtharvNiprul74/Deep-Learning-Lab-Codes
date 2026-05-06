@@ -98,5 +98,5 @@ A Streamlit-based application that uses **LangChain + Gemini (LLM)** to evaluate
 ## 📦 Requirements
 
 ```bash
-pip install numpy matplotlib scikit-learn tensorflow lime
+pip install torch torchvision torchaudio numpy matplotlib scikit-learn tensorflow lime
 
