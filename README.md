@@ -58,7 +58,13 @@ The experiments focus on understanding core concepts and applying them practical
 
 ### 🔹 [Experiment 8: LIME Explainability](https://github.com/AtharvNiprul74/Deep-Learning-Lab-Codes/blob/main/Exp8.ipynb)
 - Model interpretability  
-- Feature contribution  
+- Feature contribution
+
+### 🔹 [Experiment 9: Variational Autoencoder (VAE) vs GAN](https://github.com/YOUR_FRIEND_REPO_LINK/Exp9.ipynb)
+- Generative Deep Learning concepts  
+- Variational Autoencoder (VAE) architecture  
+- GAN architecture (Generator & Discriminator)  
+- Latent space representation  
 
 ---
 
