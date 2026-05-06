@@ -60,6 +60,8 @@ The experiments focus on understanding core concepts and applying them practical
 - Model interpretability  
 - Feature contribution
 
+---
+
 ### 🔹 [Experiment 9: Variational Autoencoder (VAE) vs GAN](https://github.com/YOUR_FRIEND_REPO_LINK/Exp9.ipynb)
 - Generative Deep Learning concepts  
 - Variational Autoencoder (VAE) architecture  
