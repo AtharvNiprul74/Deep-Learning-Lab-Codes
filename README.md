@@ -62,7 +62,7 @@ The experiments focus on understanding core concepts and applying them practical
 
 ---
 
-### 🔹 [Experiment 9: Variational Autoencoder (VAE) vs GAN](https://github.com/YOUR_FRIEND_REPO_LINK/Exp9.ipynb)
+### 🔹 [Experiment 9: Variational Autoencoder (VAE) vs GAN](https://github.com/AtharvNiprul74/Deep-Learning-Lab-Codes/blob/main/Exp9.ipynb)
 - Generative Deep Learning concepts  
 - Variational Autoencoder (VAE) architecture  
 - GAN architecture (Generator & Discriminator)  
